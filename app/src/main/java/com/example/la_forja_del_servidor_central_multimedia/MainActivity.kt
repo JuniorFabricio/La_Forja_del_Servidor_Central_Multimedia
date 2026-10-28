@@ -99,9 +99,6 @@ class MainActivity : AppCompatActivity() {
                         Player.STATE_IDLE -> {
                             // Estado inactivo
                         }
-
-
-
                     }
 
                 }
